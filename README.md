@@ -9,4 +9,5 @@
 - :heart: Linux | Open Source | 
 - :bulb: Implementing Ideas | Building Team | Making Connections | Lifelong Learner
 
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=abduttayyeb&color=green)
 
