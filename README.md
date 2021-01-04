@@ -28,6 +28,9 @@
 
 ![nodejs](https://img.shields.io/badge/NodeJS-★★☆-lightgrey?labelColor=339933&logo=nodejs&style=for-the-badge&logoColor=black)
 
+![pandas](https://img.shields.io/badge/Pandas-★★★-lightgrey?labelColor=150458&logo=pandas&style=for-the-badge&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-★★☆-lightgrey?labelColor=D00000&logo=keras&style=for-the-badge&logoColor=white)
+
 ## Tools
 ![heroku](https://img.shields.io/badge/heroku-430098?logo=heroku&style=for-the-badge&logoColor=black)
 ![flask](https://img.shields.io/badge/flask-000000?logo=flask&style=for-the-badge&logoColor=white)
