@@ -30,6 +30,7 @@
 
 ## Tools
 ![heroku](https://img.shields.io/badge/heroku-430098?logo=heroku&style=for-the-badge&logoColor=black)
+![flask](https://img.shields.io/badge/flask-000000?logo=flask&style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
