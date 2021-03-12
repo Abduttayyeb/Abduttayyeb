@@ -18,4 +18,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/abtab_m/)
 
 
-<h1 align='center'><a href="abduttayyeb.github.io">abduttayyeb.github.io</a></h1>
+<h1 align='center' style="color:white"><a href="https://abduttayyeb.github.io" target="_blank">abduttayyeb.github.io</a></h1>
