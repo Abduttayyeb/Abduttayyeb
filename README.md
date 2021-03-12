@@ -1,10 +1,8 @@
 ![1](https://user-images.githubusercontent.com/55306260/110942492-e3170300-835f-11eb-9b53-0fd6b267d2c1.png)
 
-### Hi there 👋
-# Welcome To My Profile.
+<h1 align="center">Welcome To My Profile.</h1>
 
-<p>This is Abduttayyeb M.r (Abb-dut-tai-yib) :grin:</p>
-<p>Currently pursuing my Bachelor's in CSE. Deeply fascinated by the advancements in Robotics :robot: And AGI . I generally brainstorm possible ways to resolve the problems I encounter, though i fail sometimes :exploding_head: Creativity & Ideas fulfill my day. An avid vocalist :microphone:.
+<p>I am Currently pursuing my Bachelor's in CSE. Deeply fascinated by the advancements in Robotics :robot: And AGI . I generally brainstorm possible ways to resolve the problems I encounter, though i fail sometimes :exploding_head: Creativity & Ideas fulfill my day. An avid vocalist :microphone:.</p>
 
 - 🌱 Focussing mainly in the field of **Machine learning**.
 - :telescope: Currently working on a **Cool Project, Based On Reinforcement Learning**
