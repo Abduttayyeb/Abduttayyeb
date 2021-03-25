@@ -7,7 +7,7 @@
 
 - 🌱 Working in the field of **Machine learning And Web**.
 - :telescope: Currently working on a **Cool Project, Based On Reinforcement Learning & Computer vision**
-- :heart: Linux | Open Source |
+- :heart: Linux | Open Source 
 - :bulb: Implementing Ideas | Building Team | Networking :earth_asia:
 
 ![](https://komarev.com/ghpvc/?username=abduttayyeb&label=PROFILE+VIEWS&style=flat-square&color=blue)
@@ -17,6 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abduttayyeb-m-r/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abtab_m/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/abtab_m/)
-[![Website](https://img.shields.io/badge/-Website-449d93?style=for-the-badge&logo=Google-chrome&logoColor=white)](https:abduttayyeb.github.io/)
+[![Website](https://img.shields.io/badge/-Website-449d93?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://abduttayyeb.github.io/)
 
 
