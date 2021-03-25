@@ -7,7 +7,7 @@
 
 - 🌱 Working in the field of **Machine learning And Web**.
 - :telescope: Currently **Researching** & **Building Stuffs**
-- :heart: Linux | Open Source 
+- :heart: Linux | Open Source | Designing
 - :bulb: Implementing Ideas | Building Team | Networking :earth_asia:
 
 ![](https://komarev.com/ghpvc/?username=abduttayyeb&label=PROFILE+VIEWS&style=flat-square&color=blue)
