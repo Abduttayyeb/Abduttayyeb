@@ -2,7 +2,8 @@
 
 <h1 align="center">Welcome To My Profile.</h1>
 
-<p>Hey there! <span><img src="https://github.com/Abduttayyeb/Abduttayyeb/blob/master/wave.gif" width=30px height=30px></span> This is <strong>Abduttayyeb</strong>, A CSE Student :computer: from India, Deeply fascinated by the advancements in <strong>Robotics :robot:</strong> And <strong>AGI</strong>. Breaking and making things have helped me always in gaining a perspective towards how tech works, I do the same while working with Algorithms and Code. Apart from <strong>Code & Caffeine :coffee:</strong>, I Design stuffs, Network with people, and sooth my vocals with Tea - an avid vocalist :microphone:.</p>
+
+<p>Hey there! <span><img src="https://github.com/Abduttayyeb/Abduttayyeb/blob/master/wave2.gif" width=30px height=30px></span> This is <strong>Abduttayyeb</strong>, A CSE Student :computer: from India, Deeply fascinated by the advancements in <strong>Robotics :robot:</strong> And <strong>AGI</strong>. Breaking and making things have helped me always in gaining a perspective towards how tech works, I do the same while working with Algorithms and Code. Apart from <strong>Code & Caffeine :coffee:</strong>, I Design stuffs, Network with people, and sooth my vocals with Tea - an avid vocalist :microphone:.</p>
 
 - 🌱 Focussing mainly in the field of **Machine learning**.
 - :telescope: Currently working on a **Cool Project, Based On Reinforcement Learning**
