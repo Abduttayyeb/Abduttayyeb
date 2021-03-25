@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome To My Profile.</h1>
 
-<p>I am Currently pursuing my Bachelor's in CSE. Deeply fascinated by the advancements in Robotics :robot: And AGI . I generally brainstorm possible ways to resolve the problems I encounter, though i fail sometimes :exploding_head: Creativity & Ideas fulfill my day. An avid vocalist :microphone:.</p>
+<p>Hey there! This is Abduttayyeb, A CSE Student from India, Deeply fascinated by the advancements in Robotics :robot: And AGI. Breaking and making things have helped me always in gaining a perspective towards how tech works, I do the same while working with Algorithms and Code. Apart from Code & Caffeine, I Design stuffs, Network with people, and sooth my vocals with Tea - an avid vocalist :microphone:.</p>
 
 - 🌱 Focussing mainly in the field of **Machine learning**.
 - :telescope: Currently working on a **Cool Project, Based On Reinforcement Learning**
